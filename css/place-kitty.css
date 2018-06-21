@@ -42,7 +42,7 @@
 
 /*__write_selector_here__*/ 
 
-  input[tpye=alt="Kitty 5"] {
+  input[tpye="Kitty 5"] {
   position: absolute;
   z-index: 3;
   top: 217px;
