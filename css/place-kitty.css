@@ -42,7 +42,7 @@
 
 /*__write_selector_here__*/ 
 
-  src[type="Kitty 5"] {
+  img[type="Kitty 5"] {
   position: absolute;
   z-index: 3;
   top: 217px;
